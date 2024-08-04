@@ -1,0 +1,3 @@
+database_filename_with_path: ./a_database.db
+table_name: b_table
+
